@@ -1,10 +1,12 @@
+package org.example;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class second {
+public class Second {
     public class SecondTest {
 
         private WebDriver driver;
